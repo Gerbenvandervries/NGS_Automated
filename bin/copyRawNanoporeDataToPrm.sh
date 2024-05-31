@@ -204,7 +204,7 @@ log4Bash 'DEBUG' "${LINENO}" "${FUNCNAME:-main}" '0' "Log files will be written 
 
 REMOTE_USER="grid"
 REMOTE_MACHINE="145.39.79.24"
-PRM_SAMPLESHEET_DIR="${PRM_ROOT_DIR}/nanopore/Samplesheets"
+PRM_SAMPLESHEET_DIR="${PRM_ROOT_DIR}/Samplesheets"
 SOURCE_DIR="/data/Diagnostiek/"
 DESTINATION_DIR="${PRM_ROOT_DIR}/rawdata/nanopore/"
 
